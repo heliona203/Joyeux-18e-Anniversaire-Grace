@@ -1,5 +1,6 @@
 @import url(//fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap);
 
-.b {
+.center {
   font-family: 'Fleur De Leah', cursive;
+  text-align: center;
 }
